@@ -31,4 +31,4 @@ needs to be cross platform I would use [CLI11](https://github.com/CLIUtils/CLI11
 
 ## Testing
 A large amount of testing was done by adding information to the simulation reports. If I had more time I would 
-create unit tests using the GoogleTest framework.
+create unit tests using the GoogleTest framework. Currently, it's work only on windows. It is untested on Linux.
